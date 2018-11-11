@@ -1,6 +1,6 @@
 var game;
 var maze = [];
-var mazeWidth = 81;
+var mazeWidth = screen.width;
 var mazeHeight = 61;
 var tileSize = 10;
 var mazeGraphics;
